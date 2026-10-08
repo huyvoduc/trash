@@ -1,4 +1,7 @@
 {
   "latest_version" : "1.0.2",
-  "link_download" : "https://github.com/huyvoduc/trash/raw/refs/heads/main/payment/collector_102.apk.zip"
+  "link_download" : [
+    "https://github.com/huyvoduc/trash/raw/refs/heads/main/payment/103.apk.zip.001",
+    "https://github.com/huyvoduc/trash/raw/refs/heads/main/payment/103.apk.zip.002"
+  ]
 }
